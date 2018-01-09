@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="LAQ-SISTEMAS2.Ventas"
+  DTS:DTSID="{1450DA79-8D7F-4ACD-A3A8-A51498752D97}"
+  DTS:CreationName="ADO.NET:System.Data.SqlClient.SqlConnection, System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=LAQ-SISTEMAS2;Initial Catalog=Ventas;Integrated Security=True;Application Name=SSIS-ETLVinos-{1450DA79-8D7F-4ACD-A3A8-A51498752D97}LAQ-SISTEMAS2.Ventas;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
